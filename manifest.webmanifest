@@ -1,0 +1,35 @@
+{
+  "id": "./",
+  "name": "此时 NOW",
+  "short_name": "此时",
+  "description": "用你此刻会的英语，改变正在发生的事。",
+  "lang": "zh-CN",
+  "start_url": "./?source=homescreen",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait-primary",
+  "background_color": "#0b0c0d",
+  "theme_color": "#0b0c0d",
+  "categories": ["education", "games", "productivity"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

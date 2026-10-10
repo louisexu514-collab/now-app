@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#D6FF54"/>
+  <path d="M128 116h256v280H128z" fill="#0B0C0D" opacity=".06"/>
+  <text x="256" y="326" text-anchor="middle" font-family="PingFang SC, Hiragino Sans GB, sans-serif" font-size="202" font-weight="800" fill="#0B0C0D">此</text>
+  <path d="M112 84h58M342 428h58" stroke="#0B0C0D" stroke-width="12" stroke-linecap="square"/>
+</svg>
